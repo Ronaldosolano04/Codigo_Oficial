@@ -1,6 +1,7 @@
-Sistema de Gestión de Almacén
+Sistema de Gestión de Almacén by // RONALDO SOLANO (Let's keep the vibes up) //
 
-Aplicación de escritorio desarrollada en **Java Swing** para la administración de usuarios y productos de un almacén.  
+
+Aplicación de escritorio desarrollada en Java Swing para la administración de usuarios y productos de un almacén.  
 Incluye inicio de sesión, registro de usuarios, gestión de inventario y paneles visuales con diseño moderno.
 
 ---
